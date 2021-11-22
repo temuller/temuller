@@ -6,6 +6,9 @@
 📄 &nbsp;My research is focused on cosmology with type Ia supernovae, but I am also interested in the physics of stellar transients in general, coding and machine learning.\
 🌱 &nbsp;I love music and playing the drums. I also love doing sports in general, specially playing football.
 
+
+Check my [personal website](https://temuller.github.io/) for more information about me!
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
