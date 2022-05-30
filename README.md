@@ -42,7 +42,15 @@ Check my [personal website](https://temuller.github.io/) for more information ab
   </thead>
   <tbody>
     <tr>
-     <td><a href="https://github.com/temuller/piscola"><b>🚀 piscola</b></a></td>
+     <td><a href="https://github.com/temuller/hostphot"><b> HostPhot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/temuller/hostphot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/temuller/hostphot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/temuller/hostphot?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/temuller/hostphot?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/temuller/hostphot?style=flat-square"/></td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/temuller/piscola"><b> PISCOLA</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/temuller/piscola?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/temuller/piscola?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/temuller/piscola?style=flat-square"/></td>
@@ -50,7 +58,7 @@ Check my [personal website](https://temuller.github.io/) for more information ab
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/temuller/piscola?style=flat-square"/></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/svalenti/pessto"><b>💸 PESSTO pipeline</b></a></td>
+     <td><a href="https://github.com/svalenti/pessto"><b> PESSTO pipeline</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/svalenti/pessto?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/svalenti/pessto?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/svalenti/pessto?style=flat-square"/></td>
@@ -58,7 +66,7 @@ Check my [personal website](https://temuller.github.io/) for more information ab
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/svalenti/pessto?label=javascript&style=flat-square"/></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/temuller/snii_fitting_code"><b>👨🏻‍💻 SN II fitting code</b></a></td>
+     <td><a href="https://github.com/temuller/snii_fitting_code"><b> SN II fitting code</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/temuller/snii_fitting_code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/temuller/snii_fitting_code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/temuller/snii_fitting_code?style=flat-square"/></td>
@@ -66,7 +74,7 @@ Check my [personal website](https://temuller.github.io/) for more information ab
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/temuller/snii_fitting_code?style=flat-square"/></td> 
     </tr>
     <tr>
-     <td><a href="https://github.com/temuller/astro-visualization"><b>🤓 Astro Visualization</b></a></td>
+     <td><a href="https://github.com/temuller/astro-visualization"><b> Astro Visualization</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/temuller/astro-visualization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/temuller/astro-visualization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/temuller/astro-visualization?style=flat-square"/></td>
