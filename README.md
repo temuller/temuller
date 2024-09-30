@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am a postdoc at the Institute of Space Sciences (ICE-CSIC) in Barcelona, Spain. I have previously studied at the University of Southampton (UoS), Pontificia Universidad Católica de Chile (PUC) and Universidad de Chile.\
-📄 &nbsp;My research is focused on cosmology with type Ia supernovae, but I am also interested in the physics of stellar transients in general, coding and machine learning.\
-🌱 &nbsp;I love music and playing the drums. I also love doing sports in general, specially playing football.
+🎓 &nbsp;I am a postdoc at Trinity College Dublin, Ireland. I have previously worked at the Institute of Space Sciences (ICE-CSIC, Spain) and studied at the University of Southampton (UoS, UK), Pontificia Universidad Católica de Chile (PUC) and Universidad de Chile.\
+📄 &nbsp;My research is focused on cosmology with type Ia supernovae in the near-infrared, but I am also interested in the physics of stellar transients in general, coding and machine learning.\
+🌱 &nbsp;I love music and playing the drums. I also love doing sports in general, specially swimming ad playing volleyball.
 
 
 Check my [personal website](https://temuller.github.io/) for more information about me!
